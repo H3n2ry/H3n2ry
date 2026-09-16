@@ -1,10 +1,15 @@
+# Olá, eu sou o Henry 👋
+
 Desenvolvedor **Full Stack** focado em criar produtos web e mobile completos — do banco de dados ao deploy. Gosto de construir apps que resolvem problemas reais e de integrar IA em experiências do dia a dia.
 
-- Atualmente construindo o **[Muscle Champ](https://musclechamp.com.br)**, um app fitness gamificado com IA
-- Estudando arquitetura serverless, edge computing e aplicações com LLMs
-- Contato: **H3n2ry.af@gmail.com**
+- 🔭 Atualmente construindo o **[Muscle Champ](https://musclechamp.com.br)**, um app fitness gamificado com IA
+- 🌱 Estudando arquitetura serverless, edge computing e aplicações com LLMs
+- 📫 Contato: **H3n2ry.af@gmail.com**
 
-## Tecnologias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-de-aaujo-fernandes-5b5241316/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:H3n2ry.af@gmail.com)
+
+## 🛠️ Tecnologias
 
 **Front-end**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -27,25 +32,25 @@ Desenvolvedor **Full Stack** focado em criar produtos web e mobile completos —
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
-### [Muscle Champ](https://github.com/H3n2ry/muscle-champ) — [demo](https://musclechamp.com.br)
+### 🏋️ [Muscle Champ](https://github.com/H3n2ry/muscle-champ) — [demo](https://musclechamp.com.br)
 App fitness gamificado para Android e Web. Gera treinos personalizados com IA, calcula macros de refeições a partir de texto ou foto e tem rankings entre amigos.
 `Flutter` `Riverpod` `Supabase` `Groq / LLaMA 3.3` `Cloudflare Pages`
 
-### [Af.nail](https://github.com/H3n2ry/af-nail) — [demo](https://af-nail.vercel.app)
+### 💅 [Af.nail](https://github.com/H3n2ry/af-nail) — [demo](https://af-nail.vercel.app)
 PWA de agendamento para salões de manicure, com portais separados para cliente e profissional, agenda, faturamento, assinatura mensal e lembretes automáticos via cron.
 `React` `TypeScript` `Tailwind` `Zustand` `Cloudflare Workers` `Hono` `D1`
 
-### [App Minhas Compras](https://github.com/H3n2ry/AppMinhasCompras)
+### 🛒 [App Minhas Compras](https://github.com/H3n2ry/AppMinhasCompras)
 App Android de lista de compras com CRUD completo em banco local.
 `C#` `.NET MAUI` `SQLite`
 
-### [Tempo Agora](https://github.com/H3n2ry/TempoAgora)
+### 🌤️ [Tempo Agora](https://github.com/H3n2ry/TempoAgora)
 App de previsão do tempo que consome uma API externa de clima.
 `C#` `.NET MAUI`
 
-## Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=H3n2ry&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
