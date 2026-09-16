@@ -6,7 +6,7 @@ Desenvolvedor **Full Stack** focado em criar produtos web e mobile completos —
 - 🌱 Estudando arquitetura serverless, edge computing e aplicações com LLMs
 - 📫 Contato: **H3n2ry.af@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-de-aaujo-fernandes-5b5241316/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-de-araujo-fernandes-5b5241316/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:H3n2ry.af@gmail.com)
 
 ## 🛠️ Tecnologias
