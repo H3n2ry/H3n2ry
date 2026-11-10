@@ -1,110 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=190&section=header&text=Henry%20Fernandes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=58&animation=fadeIn" alt="Henry Fernandes — Desenvolvedor Full Stack" width="100%" />
+<img src="./assets/banner.svg" alt="Henry Fernandes — Full Stack Developer" width="100%" />
 
-**Do banco de dados ao deploy** — produtos web e mobile completos, com IA no dia a dia.
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-de-araujo-fernandes-5b5241316/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:H3n2ry.af@gmail.com)
-[![Muscle Champ](https://img.shields.io/badge/Muscle_Champ-musclechamp.com.br-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musclechamp.com.br)
+<a href="https://www.linkedin.com/in/henry-de-araujo-fernandes-5b5241316/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:H3n2ry.af@gmail.com"><img src="https://img.shields.io/badge/E--mail-H3n2ry.af@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://musclechamp.com.br"><img src="https://img.shields.io/badge/Muscle_Champ-ao_vivo-3FCF8E?style=flat-square&logo=googlechrome&logoColor=white" alt="Muscle Champ" /></a>
+
+<br /><br />
+
+Gosto de construir apps que resolvem problemas reais<br />
+e de integrar **IA** em experiências do dia a dia.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+<h2 align="center">⚡ Foco atual</h2>
+
+<div align="center">
+
+|  🔨 **Construindo** |  📚 **Estudando** |  🎯 **Objetivo** |
+|:---:|:---:|:---:|
+| [Muscle Champ](https://musclechamp.com.br)<br />app fitness gamificado com IA | Serverless, edge computing<br />e aplicações com LLMs | Produtos completos,<br />do banco ao deploy |
 
 </div>
 
 <br />
 
-## 👋 Sobre mim
+<h2 align="center">🧰 Stack</h2>
 
-Gosto de construir apps que resolvem problemas reais e de integrar IA em experiências do dia a dia.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html&theme=dark" alt="Front-end" /><br />
+  <sub><b>FRONT-END</b></sub>
+</p>
 
-| | |
-|---|---|
-| 🔨 **Construindo agora** | [**Muscle Champ**](https://musclechamp.com.br) — app fitness gamificado com IA |
-| 📚 **Estudando** | Arquitetura serverless, edge computing e aplicações com LLMs |
-| 📫 **Contato** | [H3n2ry.af@gmail.com](mailto:H3n2ry.af@gmail.com) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs&theme=dark" alt="Mobile" /><br />
+  <sub><b>MOBILE</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,cloudflare,vercel&theme=dark" alt="Back-end e infra" /><br />
+  <sub><b>BACK-END &amp; INFRA</b> · também uso Hono em Workers</sub>
+</p>
 
 <br />
 
-## 🛠️ Tecnologias
+<h2 align="center">🚀 Projetos em destaque</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="150"><b>🎨 Front-end</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <td align="center">
+      <a href="https://github.com/H3n2ry/muscle-champ"><img src="./assets/card-muscle-champ.svg" width="100%" alt="Muscle Champ" /></a><br />
+      <a href="https://github.com/H3n2ry/muscle-champ"><b>Repositório</b></a> &nbsp;·&nbsp; <a href="https://musclechamp.com.br"><b>Demo ↗</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/H3n2ry/af-nail"><img src="./assets/card-af-nail.svg" width="100%" alt="Af.nail" /></a><br />
+      <a href="https://github.com/H3n2ry/af-nail"><b>Repositório</b></a> &nbsp;·&nbsp; <a href="https://af-nail.vercel.app"><b>Demo ↗</b></a>
     </td>
   </tr>
   <tr>
-    <td><b>📱 Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+    <td align="center">
+      <a href="https://github.com/H3n2ry/AppMinhasCompras"><img src="./assets/card-minhas-compras.svg" width="100%" alt="App Minhas Compras" /></a><br />
+      <a href="https://github.com/H3n2ry/AppMinhasCompras"><b>Repositório</b></a>
     </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Back-end & Infra</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-      <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <td align="center">
+      <a href="https://github.com/H3n2ry/TempoAgora"><img src="./assets/card-tempo-agora.svg" width="100%" alt="Tempo Agora" /></a><br />
+      <a href="https://github.com/H3n2ry/TempoAgora"><b>Repositório</b></a>
     </td>
   </tr>
 </table>
+</div>
 
 <br />
 
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💪 <a href="https://github.com/H3n2ry/muscle-champ">Muscle Champ</a></h3>
-      <p>App fitness gamificado para Android e Web. Gera treinos personalizados com IA, calcula macros de refeições a partir de texto ou foto e tem rankings entre amigos.</p>
-      <p>
-        <code>Flutter</code> <code>Riverpod</code> <code>Supabase</code> <code>Groq / LLaMA 3.3</code> <code>Cloudflare Pages</code>
-      </p>
-      <p><a href="https://github.com/H3n2ry/muscle-champ">📂 Repositório</a> · <a href="https://musclechamp.com.br">🌐 Demo</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💅 <a href="https://github.com/H3n2ry/af-nail">Af.nail</a></h3>
-      <p>PWA de agendamento para salões de manicure, com portais separados para cliente e profissional, agenda, faturamento, assinatura mensal e lembretes automáticos via cron.</p>
-      <p>
-        <code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Zustand</code> <code>Cloudflare Workers</code> <code>Hono</code> <code>D1</code>
-      </p>
-      <p><a href="https://github.com/H3n2ry/af-nail">📂 Repositório</a> · <a href="https://af-nail.vercel.app">🌐 Demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/H3n2ry/AppMinhasCompras">App Minhas Compras</a></h3>
-      <p>App Android de lista de compras com CRUD completo em banco local.</p>
-      <p>
-        <code>C#</code> <code>.NET MAUI</code> <code>SQLite</code>
-      </p>
-      <p><a href="https://github.com/H3n2ry/AppMinhasCompras">📂 Repositório</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛅ <a href="https://github.com/H3n2ry/TempoAgora">Tempo Agora</a></h3>
-      <p>App de previsão do tempo que consome uma API externa de clima.</p>
-      <p>
-        <code>C#</code> <code>.NET MAUI</code>
-      </p>
-      <p><a href="https://github.com/H3n2ry/TempoAgora">📂 Repositório</a></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 📊 Estatísticas
+<h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
   <picture>
@@ -122,4 +95,7 @@ Gosto de construir apps que resolvem problemas reais e de integrar IA em experi�
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="" width="100%" />
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+  <sub>© Henry Fernandes</sub>
+</div>

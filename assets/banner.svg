@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#141a2e"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.6" stop-color="#c4b5fd"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+    <clipPath id="r"><rect width="1200" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <circle cx="980" cy="60" r="130" fill="#7c3aed" opacity="0.55" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-60 40;0 0" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="280" r="120" fill="#06b6d4" opacity="0.45" filter="url(#blur)">
+      <animateTransform attributeName="transform" type="translate" values="0 0;50 -50;0 0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="330" r="100" fill="#ec4899" opacity="0.18" filter="url(#blur)"/>
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+  </g>
+  <g>
+    <rect x="80" y="62" width="262" height="32" rx="16" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.45"/>
+    <circle cx="101" cy="78" r="5" fill="#34d399"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="116" y="83" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14" fill="#6ee7b7" font-weight="600">Construindo o Muscle Champ</text>
+  </g>
+  <text x="78" y="150" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Henry Fernandes</text>
+  <text x="80" y="188" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1" font-weight="500" opacity="1">Full Stack Developer<animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.027;0.307;0.333;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="80" y="188" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1" font-weight="500" opacity="0">Web · Mobile · IA<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.360;0.640;0.667;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="80" y="188" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1" font-weight="500" opacity="0">Do banco de dados ao deploy<animate attributeName="opacity" values="0;0;1;1;1" keyTimes="0;0.667;0.693;0.973;1" dur="9s" repeatCount="indefinite"/></text>
+  <g font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">
+    <text x="80" y="262">React  ·  TypeScript  ·  Flutter  ·  .NET MAUI  ·  Supabase  ·  Cloudflare Workers</text>
+  </g>
+</svg>
